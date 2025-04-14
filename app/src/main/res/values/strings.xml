@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tak Toe</string>
+    <string name="cross">X</string>
+    <string name="btn_disc">button</string>
+    <string name="player">You</string>
+    <string name="o">O</string>
+    <string name="computer">computer</string>
+    <string name="your_turn">Your Turn</string>
+</resources>
