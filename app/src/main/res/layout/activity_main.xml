@@ -27,7 +27,8 @@
             android:layout_marginTop="25dp"
             android:background="@drawable/radius"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            tools:ignore="TextSizeCheck">
 
             <TextView
                 android:id="@+id/User"
@@ -53,7 +54,8 @@
             android:layout_marginTop="25dp"
             android:background="@drawable/radius"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            tools:ignore="TextSizeCheck">
 
             <TextView
                 android:id="@+id/bot"
